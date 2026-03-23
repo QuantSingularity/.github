@@ -1,6 +1,6 @@
 # QuantSingularity
 
-[![LinkedIn](https://img.shields.io/badge/website-LinkedIn-blue)](https://www.linkedin.com/company/quantsingularity)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-QuantSingularity-blue?logo=linkedin)](https://www.linkedin.com/company/quantsingularity)
 
 ## About
 
