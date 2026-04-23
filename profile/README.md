@@ -49,7 +49,6 @@ Production-ready platforms spanning trading, banking, DeFi, risk management, and
 | **[DataSync](https://github.com/QuantSingularity/DataSync)** | Multi-source financial data synchronization pipeline | Python |
 | **[QuantumWealth](https://github.com/QuantSingularity/QuantumWealth)** | Advanced AI Hedge Fund Platform | Python |
 | **[RiskOptimizer](https://github.com/QuantSingularity/RiskOptimizer)** | Portfolio risk optimization with advanced constraints | Python |
-| **[QuantLOB](https://github.com/QuantSingularity/QuantLOB)** | High-performance limit order book implementation | C++ |
 | **[Flowlet](https://github.com/QuantSingularity/Flowlet)** | Microservices orchestration for trading infrastructure | Python |
 | **[NexaFi](https://github.com/QuantSingularity/NexaFi)** | Next-generation decentralized finance platform | Python |
 | **[QuantumVest](https://github.com/QuantSingularity/QuantumVest)** | AI-Powered Predictive Investment Analytics Platform | Python |
@@ -57,11 +56,12 @@ Production-ready platforms spanning trading, banking, DeFi, risk management, and
 | **[Quantis](https://github.com/QuantSingularity/Quantis)** | Quantitative signal generation and backtesting | Python |
 | **[Nexora](https://github.com/QuantSingularity/Nexora)** | Healthcare AI Readmission Risk Prediction Platform | Python |
 | **[BlockScore](https://github.com/QuantSingularity/BlockScore)** | Blockchain credit scoring and on-chain analytics | Python |
-| **[LendSmart](https://github.com/QuantSingularity/LendSmart)** | Intelligent lending and credit risk platform | JavaScript |
 | **[BlockGuardian](https://github.com/QuantSingularity/BlockGuardian)** | Blockchain security and transaction monitoring | Python |
 | **[Fluxora](https://github.com/QuantSingularity/Fluxora)** | Energy Forecasting & Optimization Platform | Python |
+| **[QuantLOB](https://github.com/QuantSingularity/QuantLOB)** | High-performance limit order book implementation | C++ |
 | **[FinovaBank](https://github.com/QuantSingularity/FinovaBank)** | Digital banking platform with AI and blockchain | Java |
 | **[PayNext](https://github.com/QuantSingularity/PayNext)** | Next-generation payment processing infrastructure | Java |
+| **[LendSmart](https://github.com/QuantSingularity/LendSmart)** | Intelligent lending and credit risk platform | JavaScript |
 | **[BridgeX](https://github.com/QuantSingularity/BridgeX)** | Cross-chain bridge infrastructure and analytics | TypeScript |
 | **[QuantumBallot](https://github.com/QuantSingularity/QuantumBallot)** | Decentralized voting and governance framework | TypeScript |
 | **[FinFlow](https://github.com/QuantSingularity/FinFlow)** | Financial workflow automation and orchestration | TypeScript |
