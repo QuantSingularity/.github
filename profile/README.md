@@ -36,7 +36,6 @@ Production-ready platforms spanning trading, banking, DeFi, risk management, and
 | Project | Description | Language |
 |---------|-------------|----------|
 | **[AlphaMind](https://github.com/QuantSingularity/AlphaMind)** | Institutional-grade quantitative AI trading system | Python |
-| **[FinovaBank](https://github.com/QuantSingularity/FinovaBank)** | Digital banking platform with AI and blockchain | Java |
 | **[ChainFinity](https://github.com/QuantSingularity/ChainFinity)** | Cross-chain DeFi risk management platform | Python |
 | **[Fluxion](https://github.com/QuantSingularity/Fluxion)** | Advanced financial data processing and analytics engine | Python |
 | **[Optionix](https://github.com/QuantSingularity/Optionix)** | Options pricing and derivatives analytics platform | Python |
@@ -58,10 +57,11 @@ Production-ready platforms spanning trading, banking, DeFi, risk management, and
 | **[Quantis](https://github.com/QuantSingularity/Quantis)** | Quantitative signal generation and backtesting | Python |
 | **[Nexora](https://github.com/QuantSingularity/Nexora)** | Healthcare AI Readmission Risk Prediction Platform | Python |
 | **[BlockScore](https://github.com/QuantSingularity/BlockScore)** | Blockchain credit scoring and on-chain analytics | Python |
-| **[PayNext](https://github.com/QuantSingularity/PayNext)** | Next-generation payment processing infrastructure | Java |
 | **[LendSmart](https://github.com/QuantSingularity/LendSmart)** | Intelligent lending and credit risk platform | JavaScript |
 | **[BlockGuardian](https://github.com/QuantSingularity/BlockGuardian)** | Blockchain security and transaction monitoring | Python |
 | **[Fluxora](https://github.com/QuantSingularity/Fluxora)** | Energy Forecasting & Optimization Platform | Python |
+| **[FinovaBank](https://github.com/QuantSingularity/FinovaBank)** | Digital banking platform with AI and blockchain | Java |
+| **[PayNext](https://github.com/QuantSingularity/PayNext)** | Next-generation payment processing infrastructure | Java |
 | **[BridgeX](https://github.com/QuantSingularity/BridgeX)** | Cross-chain bridge infrastructure and analytics | TypeScript |
 | **[QuantumBallot](https://github.com/QuantSingularity/QuantumBallot)** | Decentralized voting and governance framework | TypeScript |
 | **[FinFlow](https://github.com/QuantSingularity/FinFlow)** | Financial workflow automation and orchestration | TypeScript |
