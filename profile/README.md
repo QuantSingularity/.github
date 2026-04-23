@@ -56,12 +56,12 @@ Production-ready platforms spanning trading, banking, DeFi, risk management, and
 | **[QuantumVest](https://github.com/QuantSingularity/QuantumVest)** | Quantum-enhanced investment strategies | Python |
 | **[QuantumNest](https://github.com/QuantSingularity/QuantumNest)** | Nested portfolio optimization and asset allocation | Python |
 | **[Quantis](https://github.com/QuantSingularity/Quantis)** | Quantitative signal generation and backtesting | Python |
-| **[Nexora](https://github.com/QuantSingularity/Nexora)** | AI-powered financial forecasting and analytics | Python |
+| **[Nexora](https://github.com/QuantSingularity/Nexora)** | Healthcare AI Readmission Risk Prediction Platform | Python |
 | **[BlockScore](https://github.com/QuantSingularity/BlockScore)** | Blockchain credit scoring and on-chain analytics | Python |
 | **[PayNext](https://github.com/QuantSingularity/PayNext)** | Next-generation payment processing infrastructure | Java |
 | **[LendSmart](https://github.com/QuantSingularity/LendSmart)** | Intelligent lending and credit risk platform | JavaScript |
 | **[BlockGuardian](https://github.com/QuantSingularity/BlockGuardian)** | Blockchain security and transaction monitoring | Python |
-| **[Fluxora](https://github.com/QuantSingularity/Fluxora)** | Real-time financial data streaming and processing | Python |
+| **[Fluxora](https://github.com/QuantSingularity/Fluxora)** | Energy Forecasting & Optimization Platform | Python |
 | **[BridgeX](https://github.com/QuantSingularity/BridgeX)** | Cross-chain bridge infrastructure and analytics | TypeScript |
 | **[QuantumBallot](https://github.com/QuantSingularity/QuantumBallot)** | Decentralized voting and governance framework | TypeScript |
 | **[FinFlow](https://github.com/QuantSingularity/FinFlow)** | Financial workflow automation and orchestration | TypeScript |
