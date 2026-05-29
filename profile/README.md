@@ -1,7 +1,5 @@
 # QuantSingularity
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-QuantSingularity-blue?logo=linkedin)](https://www.linkedin.com/company/quantsingularity)
-
 ## About
 
 QuantSingularity is an independent research and engineering lab working at the intersection of quantitative finance, artificial intelligence, blockchain, and multi-agent systems. We design and ship production-ready architectures that translate advanced research into reliable, auditable systems for real-world financial and regulatory environments.
