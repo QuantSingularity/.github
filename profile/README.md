@@ -31,31 +31,33 @@ Production-ready platforms spanning trading, banking, DeFi, risk management, and
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| **[AlphaMind](https://github.com/QuantSingularity/AlphaMind)** | Institutional-grade quantitative AI trading system | Python |
-| **[ChainFinity](https://github.com/QuantSingularity/ChainFinity)** | Cross-chain DeFi risk management platform | Python |
-| **[Fluxion](https://github.com/QuantSingularity/Fluxion)** | Synthetic Asset Liquidity Engine | Python |
-| **[Optionix](https://github.com/QuantSingularity/Optionix)** | Options pricing and derivatives analytics platform | Python |
-| **[CarbonXchange](https://github.com/QuantSingularity/CarbonXchange)** | Carbon credit trading and environmental finance platform | Python |
-| **[QuantYield](https://github.com/QuantSingularity/QuantYield)** | Yield optimization and fixed-income analytics | Python |
-| **[AlphaFX](https://github.com/QuantSingularity/AlphaFX)** | Foreign exchange quantitative trading and analysis | Python |
-| **[QuantumAlpha](https://github.com/QuantSingularity/QuantumAlpha)** | Advanced AI Hedge Fund Platform | Python |
-| **[QuantumWealth](https://github.com/QuantSingularity/QuantumWealth)** | AI-Powered Wealth Management & Robo-Advisory Platform | Python |
-| **[RiskOptimizer](https://github.com/QuantSingularity/RiskOptimizer)** | Portfolio risk optimization with advanced constraints | Python |
-| **[Flowlet](https://github.com/QuantSingularity/Flowlet)** | Embedded Finance Platform | Python |
-| **[NexaFi](https://github.com/QuantSingularity/NexaFi)** | Enterprise-Grade AI-Driven Fintech Platform | Python |
-| **[QuantumVest](https://github.com/QuantSingularity/QuantumVest)** | AI-Powered Predictive Investment Analytics Platform | Python |
-| **[QuantumNest](https://github.com/QuantSingularity/QuantumNest)** | AI-Powered Tokenized Asset Investment Platform | Python |
-| **[Quantis](https://github.com/QuantSingularity/Quantis)** | Quantitative signal generation and backtesting | Python |
-| **[Nexora](https://github.com/QuantSingularity/Nexora)** | Healthcare AI Readmission Risk Prediction Platform | Python |
-| **[BlockScore](https://github.com/QuantSingularity/BlockScore)** | Blockchain credit scoring and on-chain analytics | Python |
-| **[BlockGuardian](https://github.com/QuantSingularity/BlockGuardian)** | Blockchain security and transaction monitoring | Python |
-| **[Fluxora](https://github.com/QuantSingularity/Fluxora)** | Energy Forecasting & Optimization Platform | Python |
-| **[QuantLOB](https://github.com/QuantSingularity/QuantLOB)** | High-performance limit order book implementation | C++ |
-| **[FinovaBank](https://github.com/QuantSingularity/FinovaBank)** | Digital Banking Platform | Java |
-| **[PayNext](https://github.com/QuantSingularity/PayNext)** | Digital Payment Platform | Java |
-| **[LendSmart](https://github.com/QuantSingularity/LendSmart)** | Intelligent lending and credit risk platform | JavaScript |
-| **[QuantumBallot](https://github.com/QuantSingularity/QuantumBallot)** | Decentralized voting and governance framework | TypeScript |
-| **[FinFlow](https://github.com/QuantSingularity/FinFlow)** | Financial workflow automation and orchestration | TypeScript |
+| **[AlphaMind](https://github.com/QuantSingularity/AlphaMind)** | Institutional-grade quantitative AI trading system with alpha signal generation, execution engine, and live risk controls | Python |
+| **[ChainFinity](https://github.com/QuantSingularity/ChainFinity)** | Cross-chain DeFi risk management platform with protocol exposure monitoring and collateral analytics | Python |
+| **[Fluxion](https://github.com/QuantSingularity/Fluxion)** | Synthetic asset liquidity engine with on-chain pricing, collateral management, and AMM depth simulation | Python |
+| **[Optionix](https://github.com/QuantSingularity/Optionix)** | Options pricing and derivatives analytics platform supporting Black-Scholes, binomial, and Monte Carlo models | Python |
+| **[CarbonXchange](https://github.com/QuantSingularity/CarbonXchange)** | Carbon credit trading and environmental finance platform with registry integration and offset verification | Python |
+| **[QuantYield](https://github.com/QuantSingularity/QuantYield)** | Yield optimization and fixed-income analytics platform with duration, convexity, and spread modeling | Python |
+| **[AlphaFX](https://github.com/QuantSingularity/AlphaFX)** | Foreign exchange quantitative trading and analysis platform with multi-currency signal generation and execution | Python |
+| **[QuantumAlpha](https://github.com/QuantSingularity/QuantumAlpha)** | Advanced AI hedge fund platform integrating factor models, RL execution, and portfolio-level drawdown controls | Python |
+| **[QuantumWealth](https://github.com/QuantSingularity/QuantumWealth)** | AI-powered wealth management and robo-advisory platform with goal-based planning and tax-aware rebalancing | Python |
+| **[RiskOptimizer](https://github.com/QuantSingularity/RiskOptimizer)** | Portfolio risk optimization with advanced constraints including VaR, CVaR, tracking error, and factor exposure limits | Python |
+| **[Flowlet](https://github.com/QuantSingularity/Flowlet)** | Embedded finance platform with modular APIs for payments, ledgering, and financial product orchestration | Python |
+| **[NexaFi](https://github.com/QuantSingularity/NexaFi)** | Enterprise-grade AI-driven fintech platform with credit scoring, fraud detection, and regulatory reporting modules | Python |
+| **[QuantumVest](https://github.com/QuantSingularity/QuantumVest)** | AI-powered predictive investment analytics platform with factor attribution and scenario stress testing | Python |
+| **[QuantumNest](https://github.com/QuantSingularity/QuantumNest)** | AI-powered tokenized asset investment platform with on-chain settlement and portfolio performance tracking | Python |
+| **[Quantis](https://github.com/QuantSingularity/Quantis)** | Quantitative signal generation and backtesting framework with walk-forward validation and transaction cost modeling | Python |
+| **[Nexora](https://github.com/QuantSingularity/Nexora)** | Healthcare AI readmission risk prediction platform with clinical feature engineering and SHAP explainability | Python |
+| **[BlockScore](https://github.com/QuantSingularity/BlockScore)** | Blockchain credit scoring and on-chain analytics platform with wallet behavior modeling and DeFi risk profiling | Python |
+| **[BlockGuardian](https://github.com/QuantSingularity/BlockGuardian)** | Blockchain security and transaction monitoring platform with anomaly detection and on-chain threat intelligence | Python |
+| **[Fluxora](https://github.com/QuantSingularity/Fluxora)** | Energy forecasting and optimization platform with load prediction, grid balancing, and renewables dispatch modeling | Python |
+| **[QuantumFence](https://github.com/QuantSingularity/QuantumFence)** | Quantum-accelerated perimeter defense AI system with multi-camera drone detection, geofencing, and Claude AI threat analysis | Python |
+| **[QuantLOB](https://github.com/QuantSingularity/QuantLOB)** | High-performance limit order book implementation with nanosecond-level event processing and market impact analytics | C++ |
+| **[FinovaBank](https://github.com/QuantSingularity/FinovaBank)** | Digital banking platform with core banking services, account management, and open banking API integration | Java |
+| **[PayNext](https://github.com/QuantSingularity/PayNext)** | Digital payment platform with multi-rail processing, reconciliation engine, and fraud screening integration | Java |
+| **[LendSmart](https://github.com/QuantSingularity/LendSmart)** | Intelligent lending and credit risk platform with automated underwriting, scoring pipelines, and delinquency forecasting | JavaScript |
+| **[QuantumBallot](https://github.com/QuantSingularity/QuantumBallot)** | Decentralized voting and governance framework with on-chain proposal lifecycle, weighted voting, and audit trail | TypeScript |
+| **[FinFlow](https://github.com/QuantSingularity/FinFlow)** | Financial workflow automation and orchestration platform with event-driven pipelines and approval routing | TypeScript |
+
 
 ### Platform Infrastructure & Core Services
 
@@ -63,11 +65,11 @@ Foundational tooling that powers data ingestion, ML operations, observability, c
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| **[DataSync](https://github.com/QuantSingularity/DataSync)** | Market Data Layer | Python |
-| **[Cortex](https://github.com/QuantSingularity/Cortex)** | MLOps Backbone | Python |
-| **[Vantage](https://github.com/QuantSingularity/Vantage)** | Observability Stack | Python |
-| **[Clarium](https://github.com/QuantSingularity/Clarium)** | RegTech Compliance Module | Python |
-| **[BridgeX](https://github.com/QuantSingularity/BridgeX)** | Open Banking Connector | TypeScript |
+| **[DataSync](https://github.com/QuantSingularity/DataSync)** | Market data layer for ingesting, normalizing, and distributing real-time and historical feeds across internal services | Python |
+| **[Cortex](https://github.com/QuantSingularity/Cortex)** | MLOps backbone providing experiment tracking, model versioning, artifact registry, and automated deployment pipelines | Python |
+| **[Vantage](https://github.com/QuantSingularity/Vantage)** | Observability stack with distributed tracing, metrics aggregation, alerting, and latency profiling for live systems | Python |
+| **[Clarium](https://github.com/QuantSingularity/Clarium)** | RegTech compliance module with rule-based screening, audit logging, regulatory report generation, and policy enforcement | Python |
+| **[BridgeX](https://github.com/QuantSingularity/BridgeX)** | Open banking connector with PSD2-compliant account data aggregation, consent management, and partner API adapters | TypeScript |
 
 ### Multi-Agent AI Frameworks
 
@@ -101,6 +103,8 @@ Reproducible Jupyter notebooks covering stochastic modeling, option pricing, mac
 | Project | Description | Language |
 |---------|-------------|----------|
 | **[QuantAgents](https://github.com/QuantSingularity/QuantAgents)** | Multi-agent framework for quantitative finance research and execution | Jupyter Notebook |
+| **[Meridian](https://github.com/QuantSingularity/Meridian)** | End-to-end quantitative equity research atlas covering alpha decay, factor models, regime detection, execution costs, and risk management across 70+ S&P 500 stocks | Jupyter Notebook |
+| **[Mean-Variance-BlackLitterman-Portfolio-Optimization](https://github.com/QuantSingularity/Mean-Variance-BlackLitterman-Portfolio-Optimization)** | Full institutional portfolio construction pipeline covering mean-variance optimization, Fama-French five-factor attribution, Monte Carlo convergence analysis, and Black-Litterman view incorporation | Jupyter Notebook |
 | **[LSTM-Walk-Forward-Leakage-Backtesting](https://github.com/QuantSingularity/LSTM-Walk-Forward-Leakage-Backtesting)** | Proper walk-forward validation and leakage prevention for LSTM backtests | Jupyter Notebook |
 | **[Stochastic-Volatility-And-Interest-Rate-Modeling](https://github.com/QuantSingularity/Stochastic-Volatility-And-Interest-Rate-Modeling)** | Stochastic models for volatility and interest rate dynamics | Jupyter Notebook |
 | **[Binomial-Trinomial-Asian-Option-Pricing](https://github.com/QuantSingularity/Binomial-Trinomial-Asian-Option-Pricing)** | Lattice methods for exotic option valuation | Jupyter Notebook |
