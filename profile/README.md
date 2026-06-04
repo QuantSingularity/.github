@@ -103,7 +103,7 @@ Reproducible Jupyter notebooks covering stochastic modeling, option pricing, mac
 | Project | Description | Language |
 |---------|-------------|----------|
 | **[QuantAgents](https://github.com/QuantSingularity/QuantAgents)** | Multi-agent framework for quantitative finance research and execution | Jupyter Notebook |
-| **[Meridian](https://github.com/QuantSingularity/Meridian)** | End-to-end quantitative equity research atlas covering alpha decay, factor models, regime detection, execution costs, and risk management across 70+ S&P 500 stocks | Jupyter Notebook |
+| **[Meridian-Quantitative-Research-Atlas](https://github.com/QuantSingularity/Meridian)** | End-to-end quantitative equity research atlas covering alpha decay, factor models, regime detection, execution costs, and risk management across 70+ S&P 500 stocks | Jupyter Notebook |
 | **[Mean-Variance-BlackLitterman-Portfolio-Optimization](https://github.com/QuantSingularity/Mean-Variance-BlackLitterman-Portfolio-Optimization)** | Full institutional portfolio construction pipeline covering mean-variance optimization, Fama-French five-factor attribution, Monte Carlo convergence analysis, and Black-Litterman view incorporation | Jupyter Notebook |
 | **[LSTM-Walk-Forward-Leakage-Backtesting](https://github.com/QuantSingularity/LSTM-Walk-Forward-Leakage-Backtesting)** | Proper walk-forward validation and leakage prevention for LSTM backtests | Jupyter Notebook |
 | **[Stochastic-Volatility-And-Interest-Rate-Modeling](https://github.com/QuantSingularity/Stochastic-Volatility-And-Interest-Rate-Modeling)** | Stochastic models for volatility and interest rate dynamics | Jupyter Notebook |
