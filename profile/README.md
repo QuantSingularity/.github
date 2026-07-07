@@ -23,7 +23,7 @@ To engineer rigorous and auditable intelligent systems for finance by integratin
 
 ## Portfolio
 
-Our portfolio spans 60 open-source repositories across five major domains: fullstack financial applications, platform infrastructure and core services, multi-agent AI frameworks, deep learning research, and quantitative methods libraries. Every project includes a dedicated README with examples, documentation, and demo instructions.
+Our portfolio spans over 60 open-source repositories across five major domains: fullstack financial applications, platform infrastructure and core services, multi-agent AI frameworks, deep learning research, and quantitative methods libraries. Every project includes a dedicated README with examples, documentation, and demo instructions.
 
 ### Fullstack Financial Applications
 
@@ -33,6 +33,7 @@ Production-ready platforms spanning trading, banking, DeFi, risk management, and
 |---------|-------------|----------|
 | **[AlphaMind](https://github.com/QuantSingularity/AlphaMind)** | Institutional-grade quantitative AI trading system with alpha signal generation, execution engine, and live risk controls | Python |
 | **[ChainFinity](https://github.com/QuantSingularity/ChainFinity)** | Cross-chain DeFi risk management platform with protocol exposure monitoring and collateral analytics | Python |
+| **[DeltaForge](https://github.com/QuantSingularity/DeltaForge)** | Multi-strategy AI trading platform with live execution, risk management, machine learning, and backtesting | Python |
 | **[Fluxion](https://github.com/QuantSingularity/Fluxion)** | Synthetic asset liquidity engine with on-chain pricing, collateral management, and AMM depth simulation | Python |
 | **[Optionix](https://github.com/QuantSingularity/Optionix)** | Options pricing and derivatives analytics platform supporting Black-Scholes, binomial, and Monte Carlo models | Python |
 | **[CarbonXchange](https://github.com/QuantSingularity/CarbonXchange)** | Carbon credit trading and environmental finance platform with registry integration and offset verification | Python |
@@ -51,7 +52,9 @@ Production-ready platforms spanning trading, banking, DeFi, risk management, and
 | **[BlockGuardian](https://github.com/QuantSingularity/BlockGuardian)** | Blockchain security and transaction monitoring platform with anomaly detection and on-chain threat intelligence | Python |
 | **[Fluxora](https://github.com/QuantSingularity/Fluxora)** | Energy forecasting and optimization platform with load prediction, grid balancing, and renewables dispatch modeling | Python |
 | **[QuantumFence](https://github.com/QuantSingularity/QuantumFence)** | Quantum-accelerated perimeter defense AI system with multi-camera drone detection, geofencing, and Claude AI threat analysis | Python |
+| **[BTOS](https://github.com/QuantSingularity/BTOS)** | Quantitative research operating system with deterministic backtesting, portfolio analytics, strategy optimization, and experiment tracking | C++ |
 | **[QuantLOB](https://github.com/QuantSingularity/QuantLOB)** | High-performance limit order book implementation with nanosecond-level event processing and market impact analytics | C++ |
+| **[AlphaForge](https://github.com/QuantSingularity/AlphaForge)** | Production-grade quantitative trading platform with portfolio management, risk analytics, execution, and event-driven backtesting | C++ |
 | **[FinovaBank](https://github.com/QuantSingularity/FinovaBank)** | Digital banking platform with core banking services, account management, and open banking API integration | Java |
 | **[PayNext](https://github.com/QuantSingularity/PayNext)** | Digital payment platform with multi-rail processing, reconciliation engine, and fraud screening integration | Java |
 | **[LendSmart](https://github.com/QuantSingularity/LendSmart)** | Intelligent lending and credit risk platform with automated underwriting, scoring pipelines, and delinquency forecasting | JavaScript |
@@ -87,7 +90,7 @@ Intelligent multi-agent systems built for automation, AML, fraud detection, cred
 
 ### Deep Learning Research
 
-Research projects exploring deep reinforcement learning, quantum-enhanced methods, and neural architectures for financial applications.
+Research projects exploring deep reinforcement learning, graph neural networks, quantum-enhanced methods, and neural architectures for financial applications.
 
 | Project | Description | Language |
 |---------|-------------|----------|
@@ -95,6 +98,8 @@ Research projects exploring deep reinforcement learning, quantum-enhanced method
 | **[Explainable-Deep-Learning-for-Financial-Volatility-Forecasting](https://github.com/QuantSingularity/Explainable-Deep-Learning-for-Financial-Volatility-Forecasting)** | Interpretable neural architectures for volatility prediction | Python |
 | **[DRL-Portfolio-Optimization-PPO-QR-DDPG-SAC](https://github.com/QuantSingularity/DRL-Portfolio-Optimization-PPO-QR-DDPG-DDPG-SAC)** | Comparative deep reinforcement learning study with PPO, QR-DDPG, and SAC algorithms | Python |
 | **[Quantum-Enhanced-Deep-RL-for-CBDC-Optimization](https://github.com/QuantSingularity/Quantum-Enhanced-Deep-RL-for-CBDC-Optimization)** | Quantum-enhanced deep reinforcement learning for central bank digital currency optimization | Python |
+| **[Graph-Enhanced-LSTM-for-Volatility-and-Contagion-Forecasting](https://github.com/QuantSingularity/Graph-Enhanced-LSTM-for-Volatility-and-Contagion-Forecasting)** | Graph-enhanced LSTM with attention for joint volatility forecasting, Value-at-Risk estimation, and systemic contagion mapping | Python |
+| **[Quantum-Graph-RL-for-CBDC-Systemic-Risk-Management](https://github.com/QuantSingularity/Quantum-Graph-RL-for-CBDC-Systemic-Risk-Management)** | Multi-agent quantum graph reinforcement learning for CBDC liquidity allocation and systemic risk management | Python |
 
 ### Quantitative Methods & Notebooks
 
@@ -103,8 +108,10 @@ Reproducible Jupyter notebooks covering stochastic modeling, option pricing, mac
 | Project | Description | Language |
 |---------|-------------|----------|
 | **[QuantAgents](https://github.com/QuantSingularity/QuantAgents)** | Multi-agent framework for quantitative finance research and execution | Jupyter Notebook |
+| **[QuantPapers](https://github.com/QuantSingularity/QuantPapers)** | Collection of six executable research papers demonstrating deep learning, reinforcement learning, graph neural networks, quantum finance, and explainable AI for quantitative finance | Jupyter Notebook |
 | **[Meridian-Quantitative-Research-Atlas](https://github.com/QuantSingularity/Meridian)** | End-to-end quantitative equity research atlas covering alpha decay, factor models, regime detection, execution costs, and risk management across 70+ S&P 500 stocks | Jupyter Notebook |
 | **[Mean-Variance-BlackLitterman-Portfolio-Optimization](https://github.com/QuantSingularity/Mean-Variance-BlackLitterman-Portfolio-Optimization)** | Full institutional portfolio construction pipeline covering mean-variance optimization, Fama-French five-factor attribution, Monte Carlo convergence analysis, and Black-Litterman view incorporation | Jupyter Notebook |
+| **[Kelly-ML-Portfolio-Optimization](https://github.com/QuantSingularity/Kelly-ML-Portfolio-Optimization)** | Kelly criterion portfolio optimization enhanced with Marčenko-Pastur denoising, hierarchical risk parity, market-factor detoning, and walk-forward cross-validation | Jupyter Notebook |
 | **[LSTM-Walk-Forward-Leakage-Backtesting](https://github.com/QuantSingularity/LSTM-Walk-Forward-Leakage-Backtesting)** | Proper walk-forward validation and leakage prevention for LSTM backtests | Jupyter Notebook |
 | **[Stochastic-Volatility-And-Interest-Rate-Modeling](https://github.com/QuantSingularity/Stochastic-Volatility-And-Interest-Rate-Modeling)** | Stochastic models for volatility and interest rate dynamics | Jupyter Notebook |
 | **[Binomial-Trinomial-Asian-Option-Pricing](https://github.com/QuantSingularity/Binomial-Trinomial-Asian-Option-Pricing)** | Lattice methods for exotic option valuation | Jupyter Notebook |
