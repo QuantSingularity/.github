@@ -23,7 +23,7 @@ To engineer rigorous and auditable intelligent systems for finance by integratin
 
 ## Portfolio
 
-Our portfolio spans over 60 open-source repositories across five major domains: fullstack financial applications, platform infrastructure and core services, multi-agent AI frameworks, deep learning research, and quantitative methods libraries. Every project includes a dedicated README with examples, documentation, and demo instructions.
+Our portfolio spans over 70 open-source repositories across five major domains: fullstack financial applications, platform infrastructure and core services, multi-agent AI frameworks, deep learning research, and quantitative methods libraries. Every project includes a dedicated README with examples, documentation, and demo instructions.
 
 ### Fullstack Financial Applications
 
