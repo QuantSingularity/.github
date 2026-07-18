@@ -34,30 +34,30 @@ Production-ready platforms spanning trading, banking, DeFi, risk management, and
 | **[AlphaMind](https://github.com/QuantSingularity/AlphaMind)** | Institutional-grade quantitative AI trading system with alpha signal generation, execution engine, and live risk controls | Python |
 | **[ChainFinity](https://github.com/QuantSingularity/ChainFinity)** | Cross-chain DeFi risk management platform with protocol exposure monitoring and collateral analytics | Python |
 | **[DeltaForge](https://github.com/QuantSingularity/DeltaForge)** | Multi-strategy AI trading platform with live execution, risk management, machine learning, and backtesting | Python |
-| **[Fluxion](https://github.com/QuantSingularity/Fluxion)** | Synthetic asset liquidity engine with on-chain pricing, collateral management, and AMM depth simulation | Python |
-| **[Optionix](https://github.com/QuantSingularity/Optionix)** | Options pricing and derivatives analytics platform supporting Black-Scholes, binomial, and Monte Carlo models | Python |
+| **[Fluxion](https://github.com/QuantSingularity/Fluxion)** | Synthetic asset liquidity engine with zero-knowledge proof pricing (Circom/Groth16) and Chainlink CCIP cross-chain routing | Python |
+| **[Optionix](https://github.com/QuantSingularity/Optionix)** | Options pricing and derivatives analytics platform with Greeks/IV modeling and Solidity-based blockchain settlement | Python |
 | **[CarbonXchange](https://github.com/QuantSingularity/CarbonXchange)** | Carbon credit trading and environmental finance platform with registry integration and offset verification | Python |
 | **[QuantYield](https://github.com/QuantSingularity/QuantYield)** | Yield optimization and fixed-income analytics platform with duration, convexity, and spread modeling | Python |
 | **[AlphaFX](https://github.com/QuantSingularity/AlphaFX)** | Foreign exchange quantitative trading and analysis platform with multi-currency signal generation and execution | Python |
 | **[QuantumAlpha](https://github.com/QuantSingularity/QuantumAlpha)** | Advanced AI hedge fund platform integrating factor models, RL execution, and portfolio-level drawdown controls | Python |
 | **[QuantumWealth](https://github.com/QuantSingularity/QuantumWealth)** | AI-powered wealth management and robo-advisory platform with goal-based planning and tax-aware rebalancing | Python |
-| **[RiskOptimizer](https://github.com/QuantSingularity/RiskOptimizer)** | Portfolio risk optimization with advanced constraints including VaR, CVaR, tracking error, and factor exposure limits | Python |
+| **[RiskOptimizer](https://github.com/QuantSingularity/RiskOptimizer)** | Portfolio risk optimization (VaR, CVaR, tracking error, factor exposure limits) with a Solidity blockchain ledger | Python |
 | **[Flowlet](https://github.com/QuantSingularity/Flowlet)** | Embedded finance platform with modular APIs for payments, ledgering, and financial product orchestration | Python |
-| **[NexaFi](https://github.com/QuantSingularity/NexaFi)** | Enterprise-grade AI-driven fintech platform with credit scoring, fraud detection, and regulatory reporting modules | Python |
-| **[QuantumVest](https://github.com/QuantSingularity/QuantumVest)** | AI-powered predictive investment analytics platform with factor attribution and scenario stress testing | Python |
-| **[QuantumNest](https://github.com/QuantSingularity/QuantumNest)** | AI-powered tokenized asset investment platform with on-chain settlement and portfolio performance tracking | Python |
+| **[NexaFi](https://github.com/QuantSingularity/NexaFi)** | Enterprise-grade AI-driven fintech platform with credit scoring, fraud detection, and regulatory reporting modules, plus a mobile-optimized web app | Python |
+| **[QuantumVest](https://github.com/QuantSingularity/QuantumVest)** | AI-powered predictive investment analytics platform with on-chain analytics and Solidity-based data tracking | Python |
+| **[QuantumNest](https://github.com/QuantSingularity/QuantumNest)** | AI-powered tokenized asset investment platform with Solidity-based fractional ownership and a Next.js PWA | Python |
 | **[Quantis](https://github.com/QuantSingularity/Quantis)** | Quantitative signal generation and backtesting framework with walk-forward validation and transaction cost modeling | Python |
 | **[Nexora](https://github.com/QuantSingularity/Nexora)** | Healthcare AI readmission risk prediction platform with clinical feature engineering and SHAP explainability | Python |
 | **[BlockScore](https://github.com/QuantSingularity/BlockScore)** | Blockchain credit scoring and on-chain analytics platform with wallet behavior modeling and DeFi risk profiling | Python |
-| **[BlockGuardian](https://github.com/QuantSingularity/BlockGuardian)** | Blockchain security and transaction monitoring platform with anomaly detection and on-chain threat intelligence | Python |
+| **[BlockGuardian](https://github.com/QuantSingularity/BlockGuardian)** | Security and compliance monitoring platform with transaction anomaly detection and audit logging | Python |
 | **[Fluxora](https://github.com/QuantSingularity/Fluxora)** | Energy forecasting and optimization platform with load prediction, grid balancing, and renewables dispatch modeling | Python |
-| **[QuantumFence](https://github.com/QuantSingularity/QuantumFence)** | Quantum-accelerated perimeter defense AI system with multi-camera drone detection, geofencing, and Claude AI threat analysis | Python |
+| **[QuantumFence](https://github.com/QuantSingularity/QuantumFence)** | AI perimeter defense system with YOLOv8 multi-camera drone detection, geofencing, and Claude AI threat analysis | Python |
 | **[QuantLOB](https://github.com/QuantSingularity/QuantLOB)** | High-performance limit order book implementation with nanosecond-level event processing and market impact analytics | C++ |
 | **[AlphaForge](https://github.com/QuantSingularity/AlphaForge)** | Production-grade quantitative trading platform with portfolio management, risk analytics, execution, and event-driven backtesting | C++ |
 | **[FinovaBank](https://github.com/QuantSingularity/FinovaBank)** | Digital banking platform with core banking services, account management, and open banking API integration | Java |
 | **[PayNext](https://github.com/QuantSingularity/PayNext)** | Digital payment platform with multi-rail processing, reconciliation engine, and fraud screening integration | Java |
-| **[LendSmart](https://github.com/QuantSingularity/LendSmart)** | Intelligent lending and credit risk platform with automated underwriting, scoring pipelines, and delinquency forecasting | JavaScript |
-| **[QuantumBallot](https://github.com/QuantSingularity/QuantumBallot)** | Decentralized voting and governance framework with on-chain proposal lifecycle, weighted voting, and audit trail | TypeScript |
+| **[LendSmart](https://github.com/QuantSingularity/LendSmart)** | DeFi lending platform with Solidity smart contracts, ML credit scoring, and delinquency forecasting | JavaScript |
+| **[QuantumBallot](https://github.com/QuantSingularity/QuantumBallot)** | Blockchain-based election management platform for US voting with a custom ledger and QR-code voter verification | TypeScript |
 | **[FinFlow](https://github.com/QuantSingularity/FinFlow)** | Financial workflow automation and orchestration platform with event-driven pipelines and approval routing | TypeScript |
 
 
@@ -68,7 +68,7 @@ Foundational tooling that powers data ingestion, ML operations, observability, c
 | Project | Description | Language |
 |---------|-------------|----------|
 | **[DataSync](https://github.com/QuantSingularity/DataSync)** | Market data layer for ingesting, normalizing, and distributing real-time and historical feeds across internal services | Python |
-| **[Cortex](https://github.com/QuantSingularity/Cortex)** | MLOps backbone providing experiment tracking, model versioning, artifact registry, and automated deployment pipelines | Python |
+| **[Cortex](https://github.com/QuantSingularity/Cortex)** | MLOps backbone with a feature store, model registry, drift detection, and automated retraining scheduler | Python |
 | **[Vantage](https://github.com/QuantSingularity/Vantage)** | Observability stack with distributed tracing, metrics aggregation, alerting, and latency profiling for live systems | Python |
 | **[Clarium](https://github.com/QuantSingularity/Clarium)** | RegTech compliance module with rule-based screening, audit logging, regulatory report generation, and policy enforcement | Python |
 | **[BridgeX](https://github.com/QuantSingularity/BridgeX)** | Open banking connector with PSD2-compliant account data aggregation, consent management, and partner API adapters | TypeScript |
