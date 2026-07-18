@@ -23,7 +23,7 @@ To engineer rigorous and auditable intelligent systems for finance by integratin
 
 ## Portfolio
 
-Our portfolio spans over 70 open-source repositories across five major domains: fullstack financial applications, platform infrastructure and core services, multi-agent AI frameworks, deep learning research, and quantitative methods libraries. Every project includes a dedicated README with examples, documentation, and demo instructions.
+Our portfolio spans over 70 open-source repositories across six major domains: fullstack financial applications, platform infrastructure and core services, multi-agent AI frameworks, deep learning research, quantitative libraries and engines, and quantitative methods notebooks. Every project includes a dedicated README with examples, documentation, and demo instructions.
 
 ### Fullstack Financial Applications
 
@@ -52,7 +52,6 @@ Production-ready platforms spanning trading, banking, DeFi, risk management, and
 | **[BlockGuardian](https://github.com/QuantSingularity/BlockGuardian)** | Blockchain security and transaction monitoring platform with anomaly detection and on-chain threat intelligence | Python |
 | **[Fluxora](https://github.com/QuantSingularity/Fluxora)** | Energy forecasting and optimization platform with load prediction, grid balancing, and renewables dispatch modeling | Python |
 | **[QuantumFence](https://github.com/QuantSingularity/QuantumFence)** | Quantum-accelerated perimeter defense AI system with multi-camera drone detection, geofencing, and Claude AI threat analysis | Python |
-| **[BTOS](https://github.com/QuantSingularity/BTOS)** | Quantitative research operating system with deterministic backtesting, portfolio analytics, strategy optimization, and experiment tracking | C++ |
 | **[QuantLOB](https://github.com/QuantSingularity/QuantLOB)** | High-performance limit order book implementation with nanosecond-level event processing and market impact analytics | C++ |
 | **[AlphaForge](https://github.com/QuantSingularity/AlphaForge)** | Production-grade quantitative trading platform with portfolio management, risk analytics, execution, and event-driven backtesting | C++ |
 | **[FinovaBank](https://github.com/QuantSingularity/FinovaBank)** | Digital banking platform with core banking services, account management, and open banking API integration | Java |
@@ -100,6 +99,15 @@ Research projects exploring deep reinforcement learning, graph neural networks, 
 | **[Quantum-Enhanced-Deep-RL-for-CBDC-Optimization](https://github.com/QuantSingularity/Quantum-Enhanced-Deep-RL-for-CBDC-Optimization)** | Quantum-enhanced deep reinforcement learning for central bank digital currency optimization | Python |
 | **[Graph-Enhanced-LSTM-for-Volatility-and-Contagion-Forecasting](https://github.com/QuantSingularity/Graph-Enhanced-LSTM-for-Volatility-and-Contagion-Forecasting)** | Graph-enhanced LSTM with attention for joint volatility forecasting, Value-at-Risk estimation, and systemic contagion mapping | Python |
 | **[Quantum-Graph-RL-for-CBDC-Systemic-Risk-Management](https://github.com/QuantSingularity/Quantum-Graph-RL-for-CBDC-Systemic-Risk-Management)** | Multi-agent quantum graph reinforcement learning for CBDC liquidity allocation and systemic risk management | Python |
+
+### Quantitative Libraries & Engines
+
+Standalone computational libraries implementing core quantitative finance methods, built for correctness and performance rather than deployment as applications.
+
+| Project | Description | Language |
+|---------|-------------|----------|
+| **[BTOS](https://github.com/QuantSingularity/BTOS)** | Event-driven backtesting engine and research OS with exchange simulation, portfolio/risk accounting, and Python bindings | C++ |
+| **[AADXVA](https://github.com/QuantSingularity/AADXVA)** | Header-only adjoint algorithmic differentiation engine for equity XVA (CVA/DVA/FVA/MVA), wrong-way risk, and forward SIMM-proxy margin | C++ |
 
 ### Quantitative Methods & Notebooks
 
