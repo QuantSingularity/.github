@@ -25,7 +25,7 @@ To engineer rigorous and auditable intelligent systems for finance by integratin
 
 ## Portfolio
 
-Our portfolio spans over 70 open-source repositories across six major domains: fullstack financial applications, platform infrastructure and core services, multi-agent AI frameworks, deep learning research, quantitative libraries and engines, and quantitative methods notebooks. Every project includes a dedicated README with examples, documentation, and demo instructions.
+Our portfolio spans over 70 open-source repositories across seven major domains: fullstack financial applications, platform infrastructure and core services, multi-agent AI frameworks, deep learning research, research anthologies, quantitative libraries and engines, and quantitative methods notebooks. Every project includes a dedicated README with examples, documentation, and demo instructions.
 
 ### Fullstack Financial Applications
 
@@ -102,6 +102,15 @@ Research projects exploring deep reinforcement learning, graph neural networks, 
 | **[Graph-Enhanced-LSTM-for-Volatility-and-Contagion-Forecasting](https://github.com/QuantSingularity/Graph-Enhanced-LSTM-for-Volatility-and-Contagion-Forecasting)** | Graph-enhanced LSTM with attention for joint volatility forecasting, Value-at-Risk estimation, and systemic contagion mapping | Python |
 | **[Quantum-Graph-RL-for-CBDC-Systemic-Risk-Management](https://github.com/QuantSingularity/Quantum-Graph-RL-for-CBDC-Systemic-Risk-Management)** | Multi-agent quantum graph reinforcement learning for CBDC liquidity allocation and systemic risk management | Python |
 
+### Research Anthologies
+
+Multi-notebook research collections. Each notebook in these two repositories was later expanded into a standalone, production-grade repository listed under Multi-Agent AI Frameworks and Deep Learning Research above.
+
+| Project | Description | Language |
+|---------|-------------|----------|
+| **[QuantAgents](https://github.com/QuantSingularity/QuantAgents)** | Seven-notebook collection on multi-agent AI for quantitative finance, spanning fraud detection, explainable decisions, AML compliance, LLM-driven trading, credit underwriting, and multi-agent reinforcement learning | Jupyter Notebook |
+| **[QuantPapers](https://github.com/QuantSingularity/QuantPapers)** | Six executable research papers on deep learning, reinforcement learning, graph neural networks, quantum finance, and explainable AI for quantitative finance | Jupyter Notebook |
+
 ### Quantitative Libraries & Engines
 
 Standalone computational libraries implementing core quantitative finance methods, built for correctness and performance rather than deployment as applications.
@@ -117,8 +126,6 @@ Reproducible Jupyter notebooks covering stochastic modeling, option pricing, mac
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| **[QuantAgents](https://github.com/QuantSingularity/QuantAgents)** | Multi-agent framework for quantitative finance research and execution | Jupyter Notebook |
-| **[QuantPapers](https://github.com/QuantSingularity/QuantPapers)** | Collection of six executable research papers demonstrating deep learning, reinforcement learning, graph neural networks, quantum finance, and explainable AI for quantitative finance | Jupyter Notebook |
 | **[Meridian-Quantitative-Research-Atlas](https://github.com/QuantSingularity/Meridian)** | End-to-end quantitative equity research atlas covering alpha decay, factor models, regime detection, execution costs, and risk management across 70+ S&P 500 stocks | Jupyter Notebook |
 | **[Mean-Variance-BlackLitterman-Portfolio-Optimization](https://github.com/QuantSingularity/Mean-Variance-BlackLitterman-Portfolio-Optimization)** | Full institutional portfolio construction pipeline covering mean-variance optimization, Fama-French five-factor attribution, Monte Carlo convergence analysis, and Black-Litterman view incorporation | Jupyter Notebook |
 | **[Kelly-ML-Portfolio-Optimization](https://github.com/QuantSingularity/Kelly-ML-Portfolio-Optimization)** | Kelly criterion portfolio optimization enhanced with Marčenko-Pastur denoising, hierarchical risk parity, market-factor detoning, and walk-forward cross-validation | Jupyter Notebook |
