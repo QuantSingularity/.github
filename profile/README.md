@@ -25,7 +25,7 @@ To engineer rigorous and auditable intelligent systems for finance by integratin
 
 ## Portfolio
 
-Our portfolio spans over 70 open-source repositories across seven major domains: fullstack financial applications, platform infrastructure and core services, multi-agent AI frameworks, deep learning research, research anthologies, quantitative libraries and engines, and quantitative methods notebooks. Every project includes a dedicated README with examples, documentation, and demo instructions.
+Our portfolio spans 70 open-source repositories across seven major domains: fullstack financial applications, platform infrastructure and core services, multi-agent AI frameworks, deep learning research, research anthologies, quantitative libraries and engines, and quantitative methods notebooks. Every project includes a dedicated README with examples, documentation, and demo instructions.
 
 ### Fullstack Financial Applications
 
@@ -119,6 +119,8 @@ Standalone computational libraries implementing core quantitative finance method
 |---------|-------------|----------|
 | **[BTOS](https://github.com/QuantSingularity/BTOS)** | Event-driven backtesting engine and research OS with exchange simulation, portfolio/risk accounting, and Python bindings | C++ |
 | **[AADXVA](https://github.com/QuantSingularity/AADXVA)** | Header-only adjoint algorithmic differentiation engine for equity XVA (CVA/DVA/FVA/MVA), wrong-way risk, and forward SIMM-proxy margin | C++ |
+| **[radonlab](https://github.com/QuantSingularity/radonlab)** | Monte Carlo Greeks for discontinuous payoffs via likelihood-ratio, smoothing, and conditional Monte Carlo estimators | Python |
+| **[radonlab-cpp](https://github.com/QuantSingularity/radonlab-cpp)** | Header-only C++20 companion to radonlab with adjoint algorithmic differentiation and exact second-order Greeks | C++ |
 
 ### Quantitative Methods & Notebooks
 
@@ -143,6 +145,7 @@ Reproducible Jupyter notebooks covering stochastic modeling, option pricing, mac
 | **[LSTM-Multi-Asset-Portfolio-Forecasting](https://github.com/QuantSingularity/LSTM-Multi-Asset-Portfolio-Forecasting)** | LSTM networks for forecasting returns across multiple asset classes | Jupyter Notebook |
 | **[Time-Series-Modeling-Best-Practices](https://github.com/QuantSingularity/Time-Series-Modeling-Best-Practices)** | Comprehensive guide to time series modeling methodologies in finance | Jupyter Notebook |
 | **[Market-Data-Exploration-And-Factor-Analysis](https://github.com/QuantSingularity/Market-Data-Exploration-And-Factor-Analysis)** | Exploratory data analysis and factor modeling on market microstructure data | Jupyter Notebook |
+| **[Crude-Oil-Risk-Modeling](https://github.com/QuantSingularity/Crude-Oil-Risk-Modeling)** | Three-part crude oil risk study: from-scratch HMM regime detection, belief network learning, and trading simulation | Jupyter Notebook |
 
 ## Contributions and Collaboration
 
