@@ -25,7 +25,7 @@ To engineer rigorous and auditable intelligent systems for finance by integratin
 
 ## Portfolio
 
-Our portfolio spans 70 open-source repositories across seven major domains: fullstack financial applications, platform infrastructure and core services, multi-agent AI frameworks, deep learning research, research anthologies, quantitative libraries and engines, and quantitative methods notebooks. Every project includes a dedicated README with examples, documentation, and demo instructions.
+Our portfolio spans 73 open-source repositories across seven major domains: fullstack financial applications, platform infrastructure and core services, multi-agent AI frameworks, deep learning research, research anthologies, quantitative libraries and engines, and quantitative methods notebooks. Every project includes a dedicated README with examples, documentation, and demo instructions.
 
 ### Fullstack Financial Applications
 
@@ -61,6 +61,7 @@ Production-ready platforms spanning trading, banking, DeFi, risk management, and
 | **[LendSmart](https://github.com/QuantSingularity/LendSmart)** | DeFi lending platform with Solidity smart contracts, ML credit scoring, and delinquency forecasting | JavaScript |
 | **[QuantumBallot](https://github.com/QuantSingularity/QuantumBallot)** | Blockchain-based election management platform for US voting with a custom ledger and QR-code voter verification | TypeScript |
 | **[FinFlow](https://github.com/QuantSingularity/FinFlow)** | Financial workflow automation and orchestration platform with event-driven pipelines and approval routing | TypeScript |
+| **[Predictron](https://github.com/QuantSingularity/Predictron)** | Non-custodial on-chain prediction market and staking platform with SIWE wallet auth and an advisory-only AI signal layer | TypeScript |
 
 
 ### Platform Infrastructure & Core Services
@@ -88,6 +89,7 @@ Intelligent multi-agent systems built for automation, AML, fraud detection, cred
 | **[Multi-Agent-AI-for-Credit-Underwriting-and-Risk-Assessment](https://github.com/QuantSingularity/Multi-Agent-AI-for-Credit-Underwriting-and-Risk-Assessment)** | Distributed agent systems for credit analysis and risk scoring | Python |
 | **[MARL-for-Portfolio-Optimization-and-Risk-Diversification](https://github.com/QuantSingularity/MARL-for-Portfolio-Optimization-and-Risk-Diversification)** | Multi-agent reinforcement learning for portfolio construction | Python |
 | **[MARL-for-Enterprise-Grade-Cross-Chain-DeFi-Optimization](https://github.com/QuantSingularity/MARL-for-Enterprise-Grade-Cross-Chain-DeFi-Optimization)** | Multi-agent RL for cross-chain DeFi strategy optimization | Python |
+| **[Agentic-AI-for-Quantitative-Research-and-Alpha-Discovery](https://github.com/QuantSingularity/Agentic-AI-for-Quantitative-Research-and-Alpha-Discovery)** | Nine-agent AI framework automating quant research from hypothesis generation through leakage-aware backtesting | Python |
 
 ### Deep Learning Research
 
@@ -128,6 +130,7 @@ Reproducible Jupyter notebooks covering stochastic modeling, option pricing, mac
 
 | Project | Description | Language |
 |---------|-------------|----------|
+| **[Trading-Bots](https://github.com/QuantSingularity/Trading-Bots)** | Three ML trading bot notebooks: DQN on forex, RF/XGBoost/LSTM ensemble on gold, and regime detection on crude oil | Jupyter Notebook |
 | **[Meridian-Quantitative-Research-Atlas](https://github.com/QuantSingularity/Meridian)** | End-to-end quantitative equity research atlas covering alpha decay, factor models, regime detection, execution costs, and risk management across 70+ S&P 500 stocks | Jupyter Notebook |
 | **[Mean-Variance-BlackLitterman-Portfolio-Optimization](https://github.com/QuantSingularity/Mean-Variance-BlackLitterman-Portfolio-Optimization)** | Full institutional portfolio construction pipeline covering mean-variance optimization, Fama-French five-factor attribution, Monte Carlo convergence analysis, and Black-Litterman view incorporation | Jupyter Notebook |
 | **[Kelly-ML-Portfolio-Optimization](https://github.com/QuantSingularity/Kelly-ML-Portfolio-Optimization)** | Kelly criterion portfolio optimization enhanced with Marčenko-Pastur denoising, hierarchical risk parity, market-factor detoning, and walk-forward cross-validation | Jupyter Notebook |
