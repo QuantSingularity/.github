@@ -25,7 +25,7 @@ To engineer rigorous and auditable intelligent systems for finance by integratin
 
 ## Portfolio
 
-Our portfolio spans 73 open-source repositories across seven major domains: fullstack financial applications, platform infrastructure and core services, multi-agent AI frameworks, deep learning research, research anthologies, quantitative libraries and engines, and quantitative methods notebooks. Every project includes a dedicated README with examples, documentation, and demo instructions.
+Our portfolio spans 70 open-source repositories across seven major domains: fullstack financial applications, platform infrastructure and core services, multi-agent AI frameworks, deep learning research, research anthologies, quantitative libraries and engines, and quantitative methods notebooks. Every project includes a dedicated README with examples, documentation, and demo instructions.
 
 ### Fullstack Financial Applications
 
@@ -49,11 +49,8 @@ Production-ready platforms spanning trading, banking, DeFi, risk management, and
 | **[QuantumVest](https://github.com/QuantSingularity/QuantumVest)** | AI-powered predictive investment analytics platform with on-chain analytics and Solidity-based data tracking | Python |
 | **[QuantumNest](https://github.com/QuantSingularity/QuantumNest)** | AI-powered tokenized asset investment platform with Solidity-based fractional ownership and a Next.js PWA | Python |
 | **[Quantis](https://github.com/QuantSingularity/Quantis)** | Quantitative signal generation and backtesting framework with walk-forward validation and transaction cost modeling | Python |
-| **[Nexora](https://github.com/QuantSingularity/Nexora)** | Healthcare AI readmission risk prediction platform with clinical feature engineering and SHAP explainability | Python |
 | **[BlockScore](https://github.com/QuantSingularity/BlockScore)** | Blockchain credit scoring and on-chain analytics platform with wallet behavior modeling and DeFi risk profiling | Python |
 | **[BlockGuardian](https://github.com/QuantSingularity/BlockGuardian)** | Security and compliance monitoring platform with transaction anomaly detection and audit logging | Python |
-| **[Fluxora](https://github.com/QuantSingularity/Fluxora)** | Energy forecasting and optimization platform with load prediction, grid balancing, and renewables dispatch modeling | Python |
-| **[QuantumFence](https://github.com/QuantSingularity/QuantumFence)** | AI perimeter defense system with YOLOv8 multi-camera drone detection, geofencing, and Claude AI threat analysis | Python |
 | **[QuantLOB](https://github.com/QuantSingularity/QuantLOB)** | High-performance limit order book implementation with nanosecond-level event processing and market impact analytics | C++ |
 | **[AlphaForge](https://github.com/QuantSingularity/AlphaForge)** | Production-grade quantitative trading platform with portfolio management, risk analytics, execution, and event-driven backtesting | C++ |
 | **[FinovaBank](https://github.com/QuantSingularity/FinovaBank)** | Digital banking platform with core banking services, account management, and open banking API integration | Java |
