@@ -56,9 +56,7 @@ Production-ready platforms spanning trading, banking, DeFi, risk management, and
 | **[FinovaBank](https://github.com/QuantSingularity/FinovaBank)** | Digital banking platform with core banking services, account management, and open banking API integration | Java |
 | **[PayNext](https://github.com/QuantSingularity/PayNext)** | Digital payment platform with multi-rail processing, reconciliation engine, and fraud screening integration | Java |
 | **[LendSmart](https://github.com/QuantSingularity/LendSmart)** | DeFi lending platform with Solidity smart contracts, ML credit scoring, and delinquency forecasting | JavaScript |
-| **[QuantumBallot](https://github.com/QuantSingularity/QuantumBallot)** | Blockchain-based election management platform for US voting with a custom ledger and QR-code voter verification | TypeScript |
 | **[FinFlow](https://github.com/QuantSingularity/FinFlow)** | Financial workflow automation and orchestration platform with event-driven pipelines and approval routing | TypeScript |
-| **[Predictron](https://github.com/QuantSingularity/Predictron)** | Non-custodial on-chain prediction market and staking platform with SIWE wallet auth and an advisory-only AI signal layer | TypeScript |
 
 
 ### Platform Infrastructure & Core Services
