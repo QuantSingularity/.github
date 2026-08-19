@@ -126,6 +126,7 @@ Reproducible Jupyter notebooks covering stochastic modeling, option pricing, mac
 | Project | Description | Language |
 |---------|-------------|----------|
 | **[Trading-Bots](https://github.com/QuantSingularity/Trading-Bots)** | Three ML trading bot notebooks: DQN on forex, RF/XGBoost/LSTM ensemble on gold, and regime detection on crude oil | Jupyter Notebook |
+| **[Crude-Oil-Risk-Modeling](https://github.com/QuantSingularity/Crude-Oil-Risk-Modeling)** | Three-part crude oil risk study: from-scratch HMM regime detection, belief network learning, and trading simulation | Jupyter Notebook |
 | **[Meridian-Quantitative-Research-Atlas](https://github.com/QuantSingularity/Meridian)** | End-to-end quantitative equity research atlas covering alpha decay, factor models, regime detection, execution costs, and risk management across 70+ S&P 500 stocks | Jupyter Notebook |
 | **[Mean-Variance-BlackLitterman-Portfolio-Optimization](https://github.com/QuantSingularity/Mean-Variance-BlackLitterman-Portfolio-Optimization)** | Full institutional portfolio construction pipeline covering mean-variance optimization, Fama-French five-factor attribution, Monte Carlo convergence analysis, and Black-Litterman view incorporation | Jupyter Notebook |
 | **[Kelly-ML-Portfolio-Optimization](https://github.com/QuantSingularity/Kelly-ML-Portfolio-Optimization)** | Kelly criterion portfolio optimization enhanced with Marčenko-Pastur denoising, hierarchical risk parity, market-factor detoning, and walk-forward cross-validation | Jupyter Notebook |
@@ -143,7 +144,6 @@ Reproducible Jupyter notebooks covering stochastic modeling, option pricing, mac
 | **[LSTM-Multi-Asset-Portfolio-Forecasting](https://github.com/QuantSingularity/LSTM-Multi-Asset-Portfolio-Forecasting)** | LSTM networks for forecasting returns across multiple asset classes | Jupyter Notebook |
 | **[Time-Series-Modeling-Best-Practices](https://github.com/QuantSingularity/Time-Series-Modeling-Best-Practices)** | Comprehensive guide to time series modeling methodologies in finance | Jupyter Notebook |
 | **[Market-Data-Exploration-And-Factor-Analysis](https://github.com/QuantSingularity/Market-Data-Exploration-And-Factor-Analysis)** | Exploratory data analysis and factor modeling on market microstructure data | Jupyter Notebook |
-| **[Crude-Oil-Risk-Modeling](https://github.com/QuantSingularity/Crude-Oil-Risk-Modeling)** | Three-part crude oil risk study: from-scratch HMM regime detection, belief network learning, and trading simulation | Jupyter Notebook |
 
 ## Contributions and Collaboration
 
