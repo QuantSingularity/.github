@@ -12,6 +12,7 @@ To engineer rigorous and auditable intelligent systems for finance by integratin
 
 - Risk-aware quantitative trading systems and portfolio intelligence platforms
 - Decentralized finance infrastructure, blockchain analytics, and security frameworks
+- Treasury, liquidity, and payment-control platforms with auditable approval workflows
 - Multi-agent systems for automation, compliance, orchestration, and risk intelligence
 - Reproducible ML pipelines, production-grade backtests, and hardened smart contracts
 
@@ -29,30 +30,31 @@ Our portfolio spans over 70 open-source repositories across seven major domains:
 
 ### Fullstack Financial Applications
 
-Production-ready platforms spanning trading, banking, DeFi, risk management, and blockchain infrastructure.
+Production-ready platforms spanning trading, banking, DeFi, treasury, risk management, and blockchain infrastructure.
 
 | Project | Description | Language |
 |---------|-------------|----------|
 | **[AlphaMind](https://github.com/QuantSingularity/AlphaMind)** | Institutional-grade quantitative AI trading system with alpha signal generation, execution engine, and live risk controls | Python |
-| **[ChainFinity](https://github.com/QuantSingularity/ChainFinity)** | Cross-chain DeFi risk management platform with protocol exposure monitoring and collateral analytics | Python |
-| **[DeltaForge](https://github.com/QuantSingularity/DeltaForge)** | Multi-strategy AI trading platform with live execution, risk management, machine learning, and backtesting | Python |
-| **[Fluxion](https://github.com/QuantSingularity/Fluxion)** | Synthetic asset liquidity engine with zero-knowledge proof pricing (Circom/Groth16) and Chainlink CCIP cross-chain routing | Python |
-| **[Optionix](https://github.com/QuantSingularity/Optionix)** | Options pricing and derivatives analytics platform with Greeks/IV modeling and Solidity-based blockchain settlement | Python |
+| **[QuantumAlpha](https://github.com/QuantSingularity/QuantumAlpha)** | Advanced AI hedge fund platform integrating factor models, RL execution, and portfolio-level drawdown controls | Python |
+| **[BlockScore](https://github.com/QuantSingularity/BlockScore)** | Blockchain credit scoring and on-chain analytics platform with wallet behavior modeling and DeFi risk profiling | Python |
+| **[BlockGuardian](https://github.com/QuantSingularity/BlockGuardian)** | Security and compliance monitoring platform with transaction anomaly detection and audit logging | Python |
 | **[CarbonXchange](https://github.com/QuantSingularity/CarbonXchange)** | Carbon credit trading and environmental finance platform with registry integration and offset verification | Python |
+| **[QuantumWealth](https://github.com/QuantSingularity/QuantumWealth)** | AI-powered wealth management and robo-advisory platform with goal-based planning and tax-aware rebalancing | Python |
+| **[QuantumNest](https://github.com/QuantSingularity/QuantumNest)** | AI-powered tokenized asset investment platform with Solidity-based fractional ownership and a Next.js PWA | Python |
+| **[QuantumVest](https://github.com/QuantSingularity/QuantumVest)** | AI-powered predictive investment analytics platform with on-chain analytics and Solidity-based data tracking | Python |
+| **[Optionix](https://github.com/QuantSingularity/Optionix)** | Options pricing and derivatives analytics platform with Greeks/IV modeling and Solidity-based blockchain settlement | Python |
+| **[ChainFinity](https://github.com/QuantSingularity/ChainFinity)** | Cross-chain DeFi risk management platform with protocol exposure monitoring and collateral analytics | Python |
+| **[Fluxion](https://github.com/QuantSingularity/Fluxion)** | Synthetic asset liquidity engine with zero-knowledge proof pricing (Circom/Groth16) and Chainlink CCIP cross-chain routing | Python |
+| **[DeltaForge](https://github.com/QuantSingularity/DeltaForge)** | Multi-strategy AI trading platform with live execution, risk management, machine learning, and backtesting | Python |
 | **[QuantYield](https://github.com/QuantSingularity/QuantYield)** | Yield optimization and fixed-income analytics platform with duration, convexity, and spread modeling | Python |
 | **[AlphaFX](https://github.com/QuantSingularity/AlphaFX)** | Foreign exchange quantitative trading and analysis platform with multi-currency signal generation and execution | Python |
-| **[QuantumAlpha](https://github.com/QuantSingularity/QuantumAlpha)** | Advanced AI hedge fund platform integrating factor models, RL execution, and portfolio-level drawdown controls | Python |
-| **[QuantumWealth](https://github.com/QuantSingularity/QuantumWealth)** | AI-powered wealth management and robo-advisory platform with goal-based planning and tax-aware rebalancing | Python |
 | **[RiskOptimizer](https://github.com/QuantSingularity/RiskOptimizer)** | Portfolio risk optimization (VaR, CVaR, tracking error, factor exposure limits) with a Solidity blockchain ledger | Python |
 | **[Flowlet](https://github.com/QuantSingularity/Flowlet)** | Embedded finance platform with modular APIs for payments, ledgering, and financial product orchestration | Python |
 | **[NexaFi](https://github.com/QuantSingularity/NexaFi)** | Enterprise-grade AI-driven fintech platform with credit scoring, fraud detection, and regulatory reporting modules, plus a mobile-optimized web app | Python |
-| **[QuantumVest](https://github.com/QuantSingularity/QuantumVest)** | AI-powered predictive investment analytics platform with on-chain analytics and Solidity-based data tracking | Python |
-| **[QuantumNest](https://github.com/QuantSingularity/QuantumNest)** | AI-powered tokenized asset investment platform with Solidity-based fractional ownership and a Next.js PWA | Python |
 | **[Quantis](https://github.com/QuantSingularity/Quantis)** | Quantitative signal generation and backtesting framework with walk-forward validation and transaction cost modeling | Python |
-| **[BlockScore](https://github.com/QuantSingularity/BlockScore)** | Blockchain credit scoring and on-chain analytics platform with wallet behavior modeling and DeFi risk profiling | Python |
-| **[BlockGuardian](https://github.com/QuantSingularity/BlockGuardian)** | Security and compliance monitoring platform with transaction anomaly detection and audit logging | Python |
 | **[QuantLOB](https://github.com/QuantSingularity/QuantLOB)** | High-performance limit order book implementation with nanosecond-level event processing and market impact analytics | C++ |
 | **[AlphaForge](https://github.com/QuantSingularity/AlphaForge)** | Production-grade quantitative trading platform with portfolio management, risk analytics, execution, and event-driven backtesting | C++ |
+| **[Ballast](https://github.com/QuantSingularity/Ballast)** | Treasury and liquidity management platform with cash forecasting, FX hedging, risk analytics, and payment approval workflows | C# |
 | **[FinovaBank](https://github.com/QuantSingularity/FinovaBank)** | Digital banking platform with core banking services, account management, and open banking API integration | Java |
 | **[PayNext](https://github.com/QuantSingularity/PayNext)** | Digital payment platform with multi-rail processing, reconciliation engine, and fraud screening integration | Java |
 | **[LendSmart](https://github.com/QuantSingularity/LendSmart)** | DeFi lending platform with Solidity smart contracts, ML credit scoring, and delinquency forecasting | JavaScript |
